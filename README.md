@@ -4,9 +4,11 @@ Let’s say you want to develop yet another CRUD application in the traditional 
 
 
 ---
-# Backend as a Service using Decentralised Storage [IPFS]
+# Instruction
 
 Follow the below instructions to set up Lost Minds in your machine and build on Web3. The minimum requirements to run Lost minds are as little as 4 CPU core and 2GB of RAM, and an operating system that supports Python.
+
+## [Devpost Link](https://devpost.com/software/lost-minds)
 
 
 ## Flask Backend for the main application
